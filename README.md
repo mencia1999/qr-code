@@ -1,9 +1,8 @@
 # Frontend Mentor - QR code component solution - By Armencia
 This is a solution to Frontend Mentor Qr Code component Challenge
 
-# Links
-
-
+# Link
+View my solution on https://vercel.com/mencia1999/qr-code-vercel/5bAkrNRQnJk2ftsXasf3z1R1zj63
 # My Process
 ## Built with
 Pure html
